@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile_Aprendix</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="txt_contrase_a">Contraseña</string>
+    <string name="hint_contrase_a">Contraseña</string>
+    <string name="btn_iniciar_sesion">Iniciar Sesión</string>
+</resources>
